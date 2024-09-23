@@ -6,9 +6,9 @@ An AI-powered solution to analyze PDF documents and assess the feasibility of pr
 
 ## **Overview**
 
-This project was developed as part of a hackathon hosted by **Encoway**, where the challenge was to develop an efficient tool that helps companies quickly assess whether a project is doable from their perspective.
+This project was developed during the **KI Hackathon 2024 in Bremen**, where the challenge was to create an efficient tool that helps companies quickly assess whether a project is feasible from their perspective.
 
-Given the complexity of lengthy client-side documents or legal paperwork, the tool analyzes the content, extracts key information, and provides a quick feasibility summary—saving time, improving accuracy, and ensuring better decision-making.
+Given the complexity of lengthy client-side documents or legal paperwork, this tool analyzes the content, extracts key information, and provides a quick feasibility summary—saving time, improving accuracy, and ensuring better decision-making.
 
 ## **Features**
 
@@ -51,9 +51,9 @@ Given the complexity of lengthy client-side documents or legal paperwork, the to
 
 ## **Problem Statement**
 
-**Encoway**, during the hackathon, posed the challenge of creating a solution that allows companies to quickly assess the feasibility of potential projects without needing to manually read through long documents. The goal was to automate the process of extracting crucial project information and presenting it in a way that is both efficient and insightful.
+**Encoway** and the organizers of the **KI Hackathon 2024 in Bremen** posed the challenge of creating a solution that allows companies to quickly assess the feasibility of potential projects without needing to manually read through long documents. The goal was to automate the process of extracting crucial project information and presenting it in a way that is both efficient and insightful.
 
-The solution should help decision-makers at companies by saving time, offering a clear feasibility analysis, and providing actionable recommendations.
+The solution helps decision-makers at companies save time, offering a clear feasibility analysis, and providing actionable recommendations for project success.
 
 ## **How to Run the Project Locally**
 
